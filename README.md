@@ -18,14 +18,14 @@ HTML отчеты в [папке](\html)
 #### *Epiblast
 M-bias (Read 1)             |  M-bias (Read 2) 
 :-------------------------:|:-------------------------:
-![](\img\Bismark M-bias Read 1_22.png)  |  ![](\img\Bismark M-bias Read 2_22.png)
+![alt](./img/Bismark M-bias Read 1_22.png)  |  ![alt](./img/Bismark M-bias Read 2_22.png)
 
 #### *Cell8
 M-bias (Read 1)             |  M-bias (Read 2) 
 :-------------------------:|:-------------------------:
-![](\img\Bismark M-bias Read 1_73.png)  |  ![](\img\Bismark M-bias Read 2_73.png)
+![alt](./img/Bismark M-bias Read 1_73.png)  |  ![alt](./img/Bismark M-bias Read 2_73.png)
 
 #### *ICM
 M-bias (Read 1)             |  M-bias (Read 2) 
 :-------------------------:|:-------------------------:
-![](\img\Bismark M-bias Read 1_75.png)  |  ![](\img\Bismark M-bias Read 2_75.png)
+![alt](./img/Bismark M-bias Read 1_75.png)  |  ![alt](./img/Bismark M-bias Read 2_75.png)
