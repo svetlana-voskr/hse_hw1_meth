@@ -18,19 +18,18 @@ HTML отчеты в [папке](\html)
 #### Epiblast
 
 <p float="left">
-  <img src="./img/Bismark M-bias Read 1_22.png" width="48%" />
-  <img src="./img/Bismark M-bias Read 2_22.png" width="48%" /> 
+  <img src="./img/Bismark M-bias Read 1_22.png" width="49%" />
+  <img src="./img/Bismark M-bias Read 2_22.png" width="49%" /> 
 </p>
-M-bias (Read 1)             |  M-bias (Read 2) 
-:-------------------------:|:-------------------------:
-![alt](./img/Bismark M-bias Read 1_22.png)  |  ![alt](./img/Bismark M-bias Read 2_22.png)
 
 #### Cell8
-M-bias (Read 1)             |  M-bias (Read 2) 
-:-------------------------:|:-------------------------:
-![alt](./img/Bismark M-bias Read 1_73.png)  |  ![alt](./img/Bismark M-bias Read 2_73.png)
+<p float="left">
+  <img src="./img/Bismark M-bias Read 1_73.png" width="49%" />
+  <img src="./img/Bismark M-bias Read 2_73.png" width="49%" /> 
+</p>
 
 #### ICM
-M-bias (Read 1)             |  M-bias (Read 2) 
-:-------------------------:|:-------------------------:
-![alt](./img/Bismark M-bias Read 1_75.png)  |  ![alt](./img/Bismark M-bias Read 2_75.png)
+<p float="left">
+  <img src="./img/Bismark M-bias Read 1_75.png" width="49%" />
+  <img src="./img/Bismark M-bias Read 2_75.png" width="49%" /> 
+</p>
