@@ -10,7 +10,7 @@
 | epiblast | 2328 | 1062 | 97.08           |
 | ICM      | 1456 | 630  | 90.92           |
 
-**bash - skript:** ! ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
+**bash - skript:** ```! ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}```
 ### c
 Выполнено
 ### d
@@ -60,4 +60,9 @@ for kod in names:
 #### ICM
 ![](./img/5836475.png)
 
-)
+### f
+Рассмотрим сначала большой участок
+![](./img/image_all.png)
+
+Более короткий:
+![](./img/image_short.png)
