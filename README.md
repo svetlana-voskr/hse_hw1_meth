@@ -1,5 +1,8 @@
 # hse_hw1_meth
+[Ссылка на colab](https://colab.research.google.com/drive/1ERrP61iuTsqeYtFtXkzQMnvDECh247tc?usp=sharing)
 ## Часть 1
+Проведем анализ QC прочтений для epiblast 
+[HTML отчет](./html/SRR3824222_1_fastqc.html)
 
 ## Часть 2
 ### a + b
