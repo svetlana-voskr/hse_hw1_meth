@@ -4,10 +4,24 @@
 Проведем анализ QC прочтений для epiblast 
 [HTML отчет](./html/SRR3824222_1_fastqc.html)
 
+### Какие особенности можно наблюдать по сравнению с секвенированием ДНК или РНК?
+
 BS - SEQ            |  RNA
 :-------------------------:|:-------------------------:
-<img src="./img/Bismark M-bias Read 1_73.png" width="49%" />  |  ![]()
-*Какие особенности можно наблюдать по сравнению с секвенированием ДНК или РНК?
+<img src="./img/22.png" width="49%" />  |  <img src="./img/29.png" width="49%" />
+
+Для РНК процент GC (49%)  более чем в два раза выше, чем у BS-Seq (22 %)
+
+BS - SEQ            |  RNA
+:-------------------------:|:-------------------------:
+<img src="./img/Per base sequence content 22.png" width="49%" />  |  <img src="./img/Per base sequence content 29.png" width="49%" />
+
+В BS - SEQ почти отсутствуют Цитозины (C), cодержание Гуанина (G), ниже чем
+в РНК, а Тимина (T) – выше
+
+BS - SEQ            |  RNA
+:-------------------------:|:-------------------------:
+<img src="./img/Per base sequence content 22.png" width="49%" />  |  <img src="./img/Per base sequence content 29.png" width="49%" />
 
 ## Часть 2
 ### a + b
