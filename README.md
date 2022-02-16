@@ -8,21 +8,22 @@
 
 BS - SEQ            |  RNA
 :-------------------------:|:-------------------------:
-<img src="./img/22.png" width="49%" />  |  <img src="./img/29.png" width="49%" />
+<img src="./img/22.png" width="90%" />  |  <img src="./img/29.png" width="90%" />
 
 Для РНК процент GC (49%)  более чем в два раза выше, чем у BS-Seq (22 %)
 
 BS - SEQ            |  RNA
 :-------------------------:|:-------------------------:
-<img src="./img/Per base sequence content 22.png" width="49%" />  |  <img src="./img/Per base sequence content 29.png" width="49%" />
+<img src="./img/Per base sequence content 22.png" width="90%" />  |  <img src="./img/Per base sequence content 29.png" width="90%" />
 
 В BS - SEQ почти отсутствуют Цитозины (C), cодержание Гуанина (G), ниже чем
 в РНК, а Тимина (T) – выше
 
 BS - SEQ            |  RNA
 :-------------------------:|:-------------------------:
-<img src="./img/Per base sequence content 22.png" width="49%" />  |  <img src="./img/Per base sequence content 29.png" width="49%" />
+<img src="./img/Per sequence GC content 22.png" width="90%" />  |  <img src="./img/Per sequence GC content 29.png" width="90%" />
 
+Здесь заметно сильное смещение  нормального распределения для per sequence GC content
 ## Часть 2
 ### a + b
 
